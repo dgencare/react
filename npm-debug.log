@@ -1,0 +1,212 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'c:\\Program Files\\nodejs\\node.exe',
+1 verbose cli   'c:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'install',
+1 verbose cli   'merge' ]
+2 info using npm@2.14.3
+3 info using node@v4.1.0
+4 verbose install initial load of d:\React.js\advanced-react\package.json
+5 warn package.json advanced-react@1.0.0 license should be a valid SPDX license expression
+6 verbose installManyTop reading scoped package data from d:\React.js\advanced-react\node_modules\axios\package.json
+7 verbose installManyTop reading scoped package data from d:\React.js\advanced-react\node_modules\babel\package.json
+8 verbose installManyTop reading scoped package data from d:\React.js\advanced-react\node_modules\babel-core\package.json
+9 verbose installManyTop reading scoped package data from d:\React.js\advanced-react\node_modules\babel-loader\package.json
+10 verbose installManyTop reading scoped package data from d:\React.js\advanced-react\node_modules\bootstrap\package.json
+11 verbose installManyTop reading scoped package data from d:\React.js\advanced-react\node_modules\bootstrap-webpack\package.json
+12 verbose installManyTop reading scoped package data from d:\React.js\advanced-react\node_modules\css-loader\package.json
+13 verbose installManyTop reading scoped package data from d:\React.js\advanced-react\node_modules\events\package.json
+14 verbose installManyTop reading scoped package data from d:\React.js\advanced-react\node_modules\expose-loader\package.json
+15 verbose installManyTop reading scoped package data from d:\React.js\advanced-react\node_modules\file-loader\package.json
+16 verbose installManyTop reading scoped package data from d:\React.js\advanced-react\node_modules\firebase\package.json
+17 verbose installManyTop reading scoped package data from d:\React.js\advanced-react\node_modules\fixed-data-table\package.json
+18 verbose installManyTop reading scoped package data from d:\React.js\advanced-react\node_modules\flux\package.json
+19 verbose installManyTop reading scoped package data from d:\React.js\advanced-react\node_modules\griddle-callback\package.json
+20 verbose installManyTop reading scoped package data from d:\React.js\advanced-react\node_modules\griddle-react\package.json
+21 verbose installManyTop reading scoped package data from d:\React.js\advanced-react\node_modules\grunt-cli\package.json
+22 verbose installManyTop reading scoped package data from d:\React.js\advanced-react\node_modules\hsl-to-rgb\package.json
+23 verbose installManyTop reading scoped package data from d:\React.js\advanced-react\node_modules\immstruct\package.json
+24 verbose installManyTop reading scoped package data from d:\React.js\advanced-react\node_modules\immutable\package.json
+25 verbose installManyTop reading scoped package data from d:\React.js\advanced-react\node_modules\invariant\package.json
+26 verbose installManyTop reading scoped package data from d:\React.js\advanced-react\node_modules\jquery\package.json
+27 verbose installManyTop reading scoped package data from d:\React.js\advanced-react\node_modules\jsonp\package.json
+28 verbose installManyTop reading scoped package data from d:\React.js\advanced-react\node_modules\md5\package.json
+29 verbose installManyTop reading scoped package data from d:\React.js\advanced-react\node_modules\mkdirp\package.json
+30 verbose installManyTop reading scoped package data from d:\React.js\advanced-react\node_modules\object-assign\package.json
+31 verbose installManyTop reading scoped package data from d:\React.js\advanced-react\node_modules\purecss\package.json
+32 verbose installManyTop reading scoped package data from d:\React.js\advanced-react\node_modules\react\package.json
+33 verbose installManyTop reading scoped package data from d:\React.js\advanced-react\node_modules\react-addons-css-transition-group\package.json
+34 verbose installManyTop reading scoped package data from d:\React.js\advanced-react\node_modules\react-addons-perf\package.json
+35 verbose installManyTop reading scoped package data from d:\React.js\advanced-react\node_modules\react-addons-transition-group\package.json
+36 verbose installManyTop reading scoped package data from d:\React.js\advanced-react\node_modules\react-dom\package.json
+37 verbose installManyTop reading scoped package data from d:\React.js\advanced-react\node_modules\react-motion\package.json
+38 verbose installManyTop reading scoped package data from d:\React.js\advanced-react\node_modules\react-router\package.json
+39 verbose installManyTop reading scoped package data from d:\React.js\advanced-react\node_modules\react-tween-state\package.json
+40 verbose installManyTop reading scoped package data from d:\React.js\advanced-react\node_modules\sort-by\package.json
+41 verbose installManyTop reading scoped package data from d:\React.js\advanced-react\node_modules\style-loader\package.json
+42 verbose installManyTop reading scoped package data from d:\React.js\advanced-react\node_modules\underscore\package.json
+43 verbose installManyTop reading scoped package data from d:\React.js\advanced-react\node_modules\url-loader\package.json
+44 verbose installManyTop reading scoped package data from d:\React.js\advanced-react\node_modules\webpack\package.json
+45 verbose installManyTop reading scoped package data from d:\React.js\advanced-react\node_modules\webpack-dev-server\package.json
+46 info package.json babel-core@5.8.25 No README data
+47 info package.json css-loader@0.10.1 No license field.
+48 info package.json expose-loader@0.6.0 No license field.
+49 info package.json griddle-callback@0.2.1 No repository field.
+50 info package.json griddle-callback@0.2.1 No README data
+51 info package.json jquery@2.1.4 No license field.
+52 info package.json react-tween-state@0.0.5 license should be a valid SPDX license expression
+53 info package.json events@1.1.0 events is also the name of a node core module.
+54 info package.json grunt-cli@0.1.13 No license field.
+55 info package.json firebase@2.3.1 No license field.
+56 info package.json jsonp@0.2.0 No license field.
+57 info package.json bootstrap-webpack@0.0.3 No license field.
+58 info package.json react-addons-css-transition-group@0.14.0-rc1 No repository field.
+59 info package.json react-addons-transition-group@0.14.0-rc1 No repository field.
+60 info package.json purecss@0.6.0 license should be a valid SPDX license expression
+61 info package.json react-addons-perf@0.14.0-rc1 No repository field.
+62 verbose readDependencies loading dependencies from d:\React.js\advanced-react\package.json
+63 silly cache add args [ 'merge', null ]
+64 verbose cache add spec merge
+65 silly cache add parsed spec Result {
+65 silly cache add   raw: 'merge',
+65 silly cache add   scope: null,
+65 silly cache add   name: 'merge',
+65 silly cache add   rawSpec: '',
+65 silly cache add   spec: '*',
+65 silly cache add   type: 'range' }
+66 silly addNamed merge@*
+67 verbose addNamed "*" is a valid semver range for merge
+68 silly addNameRange { name: 'merge', range: '*', hasData: false }
+69 silly mapToRegistry name merge
+70 silly mapToRegistry using default registry
+71 silly mapToRegistry registry https://registry.npmjs.org/
+72 silly mapToRegistry uri https://registry.npmjs.org/merge
+73 verbose addNameRange registry:https://registry.npmjs.org/merge not in flight; fetching
+74 verbose request uri https://registry.npmjs.org/merge
+75 verbose request no auth needed
+76 info attempt registry request try #1 at 3:01:59 PM
+77 verbose request id 13c830b61aa8c3bb
+78 http request GET https://registry.npmjs.org/merge
+79 http 200 https://registry.npmjs.org/merge
+80 silly get cb [ 200,
+80 silly get   { server: 'CouchDB/1.5.0 (Erlang OTP/R16B03)',
+80 silly get     etag: '"43WP4HWHW8P7ZFTEIOFXGTH04"',
+80 silly get     'content-type': 'application/json',
+80 silly get     'cache-control': 'max-age=60',
+80 silly get     'content-length': '7431',
+80 silly get     'accept-ranges': 'bytes',
+80 silly get     date: 'Sat, 10 Oct 2015 19:01:56 GMT',
+80 silly get     via: '1.1 varnish',
+80 silly get     age: '23',
+80 silly get     connection: 'keep-alive',
+80 silly get     'x-served-by': 'cache-jfk1021-JFK',
+80 silly get     'x-cache': 'HIT',
+80 silly get     'x-cache-hits': '1',
+80 silly get     'x-timer': 'S1444503716.957282,VS0,VE0',
+80 silly get     vary: 'Accept' } ]
+81 verbose get saving merge to C:\Users\IBM_ADMIN\AppData\Roaming\npm-cache\registry.npmjs.org\merge\.cache.json
+82 silly addNameRange number 2 { name: 'merge', range: '*', hasData: true }
+83 silly addNameRange versions [ 'merge',
+83 silly addNameRange   [ '1.0.0', '1.1.0', '1.1.1', '1.1.2', '1.1.3', '1.2.0' ] ]
+84 silly addNamed merge@1.2.0
+85 verbose addNamed "1.2.0" is a plain semver version for merge
+86 silly mapToRegistry name merge
+87 silly mapToRegistry using default registry
+88 silly mapToRegistry registry https://registry.npmjs.org/
+89 silly mapToRegistry uri https://registry.npmjs.org/merge
+90 verbose addRemoteTarball https://registry.npmjs.org/merge/-/merge-1.2.0.tgz not in flight; adding
+91 verbose addRemoteTarball [ 'https://registry.npmjs.org/merge/-/merge-1.2.0.tgz',
+91 verbose addRemoteTarball   '7531e39d4949c281a66b8c5a6e0265e8b05894da' ]
+92 info retry fetch attempt 1 at 3:01:59 PM
+93 info attempt registry request try #1 at 3:01:59 PM
+94 http fetch GET https://registry.npmjs.org/merge/-/merge-1.2.0.tgz
+95 http fetch 200 https://registry.npmjs.org/merge/-/merge-1.2.0.tgz
+96 silly fetchAndShaCheck shasum 7531e39d4949c281a66b8c5a6e0265e8b05894da
+97 verbose addTmpTarball C:\Users\IBM_AD~1\AppData\Local\Temp\npm-14196-85bee342\registry.npmjs.org\merge\-\merge-1.2.0.tgz not in flight; adding
+98 verbose addTmpTarball already have metadata; skipping unpack for merge@1.2.0
+99 silly cache afterAdd merge@1.2.0
+100 verbose afterAdd C:\Users\IBM_ADMIN\AppData\Roaming\npm-cache\merge\1.2.0\package\package.json not in flight; writing
+101 verbose afterAdd C:\Users\IBM_ADMIN\AppData\Roaming\npm-cache\merge\1.2.0\package\package.json written
+102 silly install resolved [ { name: 'merge',
+102 silly install resolved     version: '1.2.0',
+102 silly install resolved     author: { name: 'yeikos', url: 'http://www.yeikos.com' },
+102 silly install resolved     description: 'Merge multiple objects into one, optionally creating a new cloned object. Similar to the jQuery.extend but more flexible. Works in Node.js and the browser.',
+102 silly install resolved     main: 'merge.js',
+102 silly install resolved     license: 'MIT',
+102 silly install resolved     homepage: 'https://github.com/yeikos/js.merge',
+102 silly install resolved     repository: { type: 'git', url: 'https://github.com/yeikos/js.merge.git' },
+102 silly install resolved     keywords: [ 'merge', 'recursive', 'extend', 'clone', 'object', 'browser' ],
+102 silly install resolved     scripts: { test: 'cd tests; node index.js' },
+102 silly install resolved     gitHead: '6fc27c23e1ebf54a4f6ba8a7224dd48dfd9faf7c',
+102 silly install resolved     bugs: { url: 'https://github.com/yeikos/js.merge/issues' },
+102 silly install resolved     _id: 'merge@1.2.0',
+102 silly install resolved     _shasum: '7531e39d4949c281a66b8c5a6e0265e8b05894da',
+102 silly install resolved     _from: 'merge@*',
+102 silly install resolved     _npmVersion: '1.4.21',
+102 silly install resolved     _npmUser: { name: 'yeikos', email: 'yeikos@gmail.com' },
+102 silly install resolved     maintainers: [ [Object] ],
+102 silly install resolved     dist:
+102 silly install resolved      { shasum: '7531e39d4949c281a66b8c5a6e0265e8b05894da',
+102 silly install resolved        tarball: 'http://registry.npmjs.org/merge/-/merge-1.2.0.tgz' },
+102 silly install resolved     directories: {},
+102 silly install resolved     _resolved: 'https://registry.npmjs.org/merge/-/merge-1.2.0.tgz' } ]
+103 info install merge@1.2.0 into d:\React.js\advanced-react
+104 info installOne merge@1.2.0
+105 verbose installOne of merge to d:\React.js\advanced-react not in flight; installing
+106 verbose lock using C:\Users\IBM_ADMIN\AppData\Roaming\npm-cache\_locks\merge-34ab54b56b979b36.lock for d:\React.js\advanced-react\node_modules\merge
+107 silly install write writing merge 1.2.0 to d:\React.js\advanced-react\node_modules\merge
+108 verbose unbuild node_modules\merge
+109 silly gentlyRm d:\React.js\advanced-react\node_modules\merge is being purged from base d:\React.js\advanced-react
+110 verbose gentlyRm don't care about contents; nuking d:\React.js\advanced-react\node_modules\merge
+111 verbose tar unpack C:\Users\IBM_ADMIN\AppData\Roaming\npm-cache\merge\1.2.0\package.tgz
+112 verbose tar unpacking to d:\React.js\advanced-react\node_modules\merge
+113 silly gentlyRm d:\React.js\advanced-react\node_modules\merge is being purged
+114 verbose gentlyRm don't care about contents; nuking d:\React.js\advanced-react\node_modules\merge
+115 silly gunzTarPerm modes [ '777', '666' ]
+116 silly gunzTarPerm extractEntry package.json
+117 silly gunzTarPerm extractEntry .npmignore
+118 silly gunzTarPerm extractEntry README.md
+119 silly gunzTarPerm extractEntry LICENSE
+120 silly gunzTarPerm extractEntry merge.js
+121 silly gunzTarPerm extractEntry merge.min.js
+122 silly gunzTarPerm extractEntry bower.json
+123 verbose write writing to d:\React.js\advanced-react\node_modules\merge\package.json
+124 info preinstall merge@1.2.0
+125 verbose readDependencies loading dependencies from d:\React.js\advanced-react\node_modules\merge\package.json
+126 verbose readDependencies loading dependencies from d:\React.js\advanced-react\node_modules\merge\package.json
+127 silly install resolved []
+128 verbose about to build d:\React.js\advanced-react\node_modules\merge
+129 info build d:\React.js\advanced-react\node_modules\merge
+130 info linkStuff merge@1.2.0
+131 silly linkStuff merge@1.2.0 has d:\React.js\advanced-react\node_modules as its parent node_modules
+132 verbose linkBins merge@1.2.0
+133 verbose linkMans merge@1.2.0
+134 verbose rebuildBundles merge@1.2.0
+135 info install merge@1.2.0
+136 info postinstall merge@1.2.0
+137 verbose unlock done using C:\Users\IBM_ADMIN\AppData\Roaming\npm-cache\_locks\merge-34ab54b56b979b36.lock for d:\React.js\advanced-react\node_modules\merge
+138 verbose validateInstall loading d:\React.js\advanced-react\package.json for validation
+139 verbose stack Error: The package react@0.14.0-rc1 does not satisfy its siblings' peerDependencies requirements!
+139 verbose stack     at c:\Program Files\nodejs\node_modules\npm\lib\install.js:125:32
+139 verbose stack     at c:\Program Files\nodejs\node_modules\npm\lib\install.js:268:7
+139 verbose stack     at c:\Program Files\nodejs\node_modules\npm\node_modules\read-installed\read-installed.js:142:5
+139 verbose stack     at c:\Program Files\nodejs\node_modules\npm\node_modules\read-installed\read-installed.js:263:14
+139 verbose stack     at cb (c:\Program Files\nodejs\node_modules\npm\node_modules\slide\lib\async-map.js:47:24)
+139 verbose stack     at c:\Program Files\nodejs\node_modules\npm\node_modules\read-installed\read-installed.js:263:14
+139 verbose stack     at cb (c:\Program Files\nodejs\node_modules\npm\node_modules\slide\lib\async-map.js:47:24)
+139 verbose stack     at c:\Program Files\nodejs\node_modules\npm\node_modules\read-installed\read-installed.js:263:14
+139 verbose stack     at cb (c:\Program Files\nodejs\node_modules\npm\node_modules\slide\lib\async-map.js:47:24)
+139 verbose stack     at c:\Program Files\nodejs\node_modules\npm\node_modules\read-installed\read-installed.js:263:14
+140 verbose cwd d:\React.js\advanced-react
+141 error Windows_NT 6.1.7601
+142 error argv "c:\\Program Files\\nodejs\\node.exe" "c:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "install" "merge"
+143 error node v4.1.0
+144 error npm  v2.14.3
+145 error code EPEERINVALID
+146 error peerinvalid The package react@0.14.0-rc1 does not satisfy its siblings' peerDependencies requirements!
+146 error peerinvalid Peer fixed-data-table@0.4.7 wants react@>=0.13.0 <0.15.0 || ^0.14.0-beta3
+146 error peerinvalid Peer react-addons-css-transition-group@0.14.0-rc1 wants react@^0.14.0-rc1
+146 error peerinvalid Peer react-addons-perf@0.14.0-rc1 wants react@^0.14.0-rc1
+146 error peerinvalid Peer react-addons-transition-group@0.14.0-rc1 wants react@^0.14.0-rc1
+146 error peerinvalid Peer react-motion@0.2.7 wants react@>=0.13.2 || ^0.14.0-beta1
+146 error peerinvalid Peer griddle-react@0.2.14 wants react@>=0.12.0
+147 verbose exit [ 1, true ]
