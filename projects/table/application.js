@@ -5,9 +5,19 @@ import getJSON from './lib/getJSON'
 
 require('./css/fixed-data-table')
 
-var NUMBER_OF_ROWS_MAX = 2;
-var NUMBER_OF_ROWS_PER_REQUEST = 2;
+var NUMBER_OF_ROWS_MAX = 3;
+var NUMBER_OF_ROWS_PER_REQUEST = 3;
 var API_URL = 'api/tabledata.js';
+var divTwitterStyle = {
+    height: '25px',
+    width: '25px',
+
+};
+var divRSSStyle = {
+    height: '25px',
+    width: '25px',
+
+};
 
 function makeFancyFakeRequest(rowStart, rowEnd, onLoad) {
     getJSON(API_URL, (error, payload) => {
@@ -82,18 +92,45 @@ const App = React.createClass({
         });
     },
 
+    getInitialState: function() {
+        return {
+            visulizeButtonClicked: null
+        };
+    },
+
     _rowGetter(rowIndex) {
         return this._dataLoader.getRowData(rowIndex);
     },
 
-    _renderVisulize(_1, _2, _3, rowIndex) {
-        return (<button style={{width: 'auto'}} onClick={console.log('visulize button clicked')}>Visulize</button>);
+    _handleVisulizeClick(rowData, rowIndex) {
+        console.log("Visulize id: " + rowIndex);
+    },
+
+    _renderVisulize(cellData, cellDataKey, rowData, rowIndex) {
+        if(typeof rowData.id != 'undefined') {
+            return <button style={{width: '80%'}} onClick={this._handleVisulizeClick.bind(null, rowData, rowIndex)}>*</button>;
+            //return (<button style={{width: 'auto'}} onClick={this._handleVisulizeClick}>Visulize</button>);
+        }
+    },
+
+    _renederFeedType(feed_type, fieldName, rowObj, rowIndex) {
+        if(typeof feed_type != 'undefined') {
+            switch(feed_type) {
+                case "twitter":
+                    return (<img style={divTwitterStyle} src="./images/twitter_32_32.png"/>);
+                    break;
+                case "rss":
+                    return (<img style={divRSSStyle} src="./images/rss_16_16.png"/>);
+                    break;
+            }
+
+        }
     },
 
     render: function() {
         return (
             <Table
-                rowHeight={30}
+                rowHeight={40}
                 rowGetter={this._rowGetter}
                 rowsCount={NUMBER_OF_ROWS_MAX}
                 width={700}
@@ -109,22 +146,27 @@ const App = React.createClass({
                     label="Feed Type"
                     width={100}
                     dataKey="feed_type"
+                    cellRenderer={this._renederFeedType}
+                    align="center"
                     />
                 <Column
                     label="Geo Locations"
                     width={150}
                     dataKey="geo_locals"
+                    align="center"
                     />
                 <Column
                     label="Topics"
                     width={100}
                     dataKey="topics"
+                    align="center"
                     />
                 <Column
                     label="Visulize"
                     width={80}
                     cellRenderer={this._renderVisulize}
                     dataKey=""
+                    align="center"
                     />
             </Table>
         );

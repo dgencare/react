@@ -2,15 +2,84 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54d7bfab-b317-4b82-bc75-8f15d6fe6d0e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/webResources.xml" />
+      <change type="DELETED" beforePath="C:\reactjs_sites\react\node_modules\react\dist\react-dom.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\reactjs_sites\react\node_modules\react\dist\react-dom.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\reactjs_sites\react\node_modules\react\lib\joinClasses.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\reactjs_sites\react\node_modules\react\lib\memoizeStringOnly.js" afterPath="" />
       <change type="DELETED" beforePath="C:\reactjs_sites\react\projects\table\api\DataAPI.js" afterPath="" />
       <change type="DELETED" beforePath="C:\reactjs_sites\react\projects\table\api\EntityStore.js" afterPath="" />
       <change type="DELETED" beforePath="C:\reactjs_sites\react\projects\table\api\FancyData.js" afterPath="" />
       <change type="DELETED" beforePath="C:\reactjs_sites\react\projects\table\application-new.js" afterPath="" />
       <change type="DELETED" beforePath="C:\reactjs_sites\react\projects\table\application-old.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\reactjs_sites\react\projects\table\fixed-data-table" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react/lib/CSSPropertyOperations.js" afterPath="$PROJECT_DIR$/node_modules/react/lib/CSSPropertyOperations.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react/lib/ChangeEventPlugin.js" afterPath="$PROJECT_DIR$/node_modules/react/lib/ChangeEventPlugin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react/lib/DOMChildrenOperations.js" afterPath="$PROJECT_DIR$/node_modules/react/lib/DOMChildrenOperations.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react/lib/DOMPropertyOperations.js" afterPath="$PROJECT_DIR$/node_modules/react/lib/DOMPropertyOperations.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react/lib/EventPluginHub.js" afterPath="$PROJECT_DIR$/node_modules/react/lib/EventPluginHub.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react/lib/EventPluginUtils.js" afterPath="$PROJECT_DIR$/node_modules/react/lib/EventPluginUtils.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react/lib/HTMLDOMPropertyConfig.js" afterPath="$PROJECT_DIR$/node_modules/react/lib/HTMLDOMPropertyConfig.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react/lib/ReactBrowserEventEmitter.js" afterPath="$PROJECT_DIR$/node_modules/react/lib/ReactBrowserEventEmitter.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react/lib/ReactClass.js" afterPath="$PROJECT_DIR$/node_modules/react/lib/ReactClass.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react/lib/ReactComponent.js" afterPath="$PROJECT_DIR$/node_modules/react/lib/ReactComponent.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react/lib/ReactCompositeComponent.js" afterPath="$PROJECT_DIR$/node_modules/react/lib/ReactCompositeComponent.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react/lib/ReactDOMComponent.js" afterPath="$PROJECT_DIR$/node_modules/react/lib/ReactDOMComponent.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react/lib/ReactDOMIDOperations.js" afterPath="$PROJECT_DIR$/node_modules/react/lib/ReactDOMIDOperations.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react/lib/ReactDOMInput.js" afterPath="$PROJECT_DIR$/node_modules/react/lib/ReactDOMInput.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react/lib/ReactDOMSelection.js" afterPath="$PROJECT_DIR$/node_modules/react/lib/ReactDOMSelection.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react/lib/ReactDOMTextarea.js" afterPath="$PROJECT_DIR$/node_modules/react/lib/ReactDOMTextarea.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react/lib/ReactDefaultPerf.js" afterPath="$PROJECT_DIR$/node_modules/react/lib/ReactDefaultPerf.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react/lib/ReactDefaultPerfAnalysis.js" afterPath="$PROJECT_DIR$/node_modules/react/lib/ReactDefaultPerfAnalysis.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react/lib/ReactElement.js" afterPath="$PROJECT_DIR$/node_modules/react/lib/ReactElement.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react/lib/ReactElementValidator.js" afterPath="$PROJECT_DIR$/node_modules/react/lib/ReactElementValidator.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react/lib/ReactErrorUtils.js" afterPath="$PROJECT_DIR$/node_modules/react/lib/ReactErrorUtils.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react/lib/ReactEventEmitterMixin.js" afterPath="$PROJECT_DIR$/node_modules/react/lib/ReactEventEmitterMixin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react/lib/ReactLink.js" afterPath="$PROJECT_DIR$/node_modules/react/lib/ReactLink.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react/lib/ReactMount.js" afterPath="$PROJECT_DIR$/node_modules/react/lib/ReactMount.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react/lib/ReactPropTransferer.js" afterPath="$PROJECT_DIR$/node_modules/react/lib/ReactPropTransferer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react/lib/ReactRef.js" afterPath="$PROJECT_DIR$/node_modules/react/lib/ReactRef.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react/lib/ReactTestUtils.js" afterPath="$PROJECT_DIR$/node_modules/react/lib/ReactTestUtils.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react/lib/ReactVersion.js" afterPath="$PROJECT_DIR$/node_modules/react/lib/ReactVersion.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react/lib/SyntheticEvent.js" afterPath="$PROJECT_DIR$/node_modules/react/lib/SyntheticEvent.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/advanced-react.iml" afterPath="$PROJECT_DIR$/.idea/advanced-react.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/table/application.js" afterPath="$PROJECT_DIR$/projects/table/application.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react/lib/createHierarchyRenderer.js" afterPath="$PROJECT_DIR$/node_modules/react/lib/createHierarchyRenderer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react/node_modules/fbjs/flow/include/fetchWithRetries.js" afterPath="$PROJECT_DIR$/node_modules/react/node_modules/fbjs/flow/include/fetchWithRetries.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react/node_modules/fbjs/lib/fetchWithRetries.js" afterPath="$PROJECT_DIR$/node_modules/react/node_modules/fbjs/lib/fetchWithRetries.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react/node_modules/fbjs/flow/include/getActiveElement.js" afterPath="$PROJECT_DIR$/node_modules/react/node_modules/fbjs/flow/include/getActiveElement.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react/node_modules/fbjs/lib/getActiveElement.js" afterPath="$PROJECT_DIR$/node_modules/react/node_modules/fbjs/lib/getActiveElement.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react/lib/getTestDocument.js" afterPath="$PROJECT_DIR$/node_modules/react/lib/getTestDocument.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react/node_modules/fbjs/flow/include/getUnboundedScrollPosition.js" afterPath="$PROJECT_DIR$/node_modules/react/node_modules/fbjs/flow/include/getUnboundedScrollPosition.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react/node_modules/fbjs/lib/getUnboundedScrollPosition.js" afterPath="$PROJECT_DIR$/node_modules/react/node_modules/fbjs/lib/getUnboundedScrollPosition.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/index.html" afterPath="$PROJECT_DIR$/projects/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react/node_modules/fbjs/flow/include/invariant.js" afterPath="$PROJECT_DIR$/node_modules/react/node_modules/fbjs/flow/include/invariant.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react/node_modules/fbjs/lib/invariant.js" afterPath="$PROJECT_DIR$/node_modules/react/node_modules/fbjs/lib/invariant.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react/node_modules/fbjs/module-map.json" afterPath="$PROJECT_DIR$/node_modules/react/node_modules/fbjs/module-map.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react/node_modules/fbjs/flow/include/monitorCodeUse.js" afterPath="$PROJECT_DIR$/node_modules/react/node_modules/fbjs/flow/include/monitorCodeUse.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react/node_modules/fbjs/lib/monitorCodeUse.js" afterPath="$PROJECT_DIR$/node_modules/react/node_modules/fbjs/lib/monitorCodeUse.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react/package.json" afterPath="$PROJECT_DIR$/node_modules/react/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react-addons-css-transition-group/package.json" afterPath="$PROJECT_DIR$/node_modules/react-addons-css-transition-group/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react-addons-perf/package.json" afterPath="$PROJECT_DIR$/node_modules/react-addons-perf/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react-addons-transition-group/package.json" afterPath="$PROJECT_DIR$/node_modules/react-addons-transition-group/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react-dom/package.json" afterPath="$PROJECT_DIR$/node_modules/react-dom/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react/node_modules/envify/package.json" afterPath="$PROJECT_DIR$/node_modules/react/node_modules/envify/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react/node_modules/envify/node_modules/jstransform/package.json" afterPath="$PROJECT_DIR$/node_modules/react/node_modules/envify/node_modules/jstransform/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react/node_modules/envify/node_modules/jstransform/node_modules/base62/package.json" afterPath="$PROJECT_DIR$/node_modules/react/node_modules/envify/node_modules/jstransform/node_modules/base62/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react/node_modules/envify/node_modules/jstransform/node_modules/esprima-fb/package.json" afterPath="$PROJECT_DIR$/node_modules/react/node_modules/envify/node_modules/jstransform/node_modules/esprima-fb/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react/node_modules/envify/node_modules/jstransform/node_modules/source-map/package.json" afterPath="$PROJECT_DIR$/node_modules/react/node_modules/envify/node_modules/jstransform/node_modules/source-map/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react/node_modules/envify/node_modules/jstransform/node_modules/source-map/node_modules/amdefine/package.json" afterPath="$PROJECT_DIR$/node_modules/react/node_modules/envify/node_modules/jstransform/node_modules/source-map/node_modules/amdefine/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react/node_modules/envify/node_modules/through/package.json" afterPath="$PROJECT_DIR$/node_modules/react/node_modules/envify/node_modules/through/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react/node_modules/fbjs/package.json" afterPath="$PROJECT_DIR$/node_modules/react/node_modules/fbjs/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react/dist/react-with-addons.js" afterPath="$PROJECT_DIR$/node_modules/react/dist/react-with-addons.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react/dist/react-with-addons.min.js" afterPath="$PROJECT_DIR$/node_modules/react/dist/react-with-addons.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react/dist/react.js" afterPath="$PROJECT_DIR$/node_modules/react/dist/react.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react/dist/react.min.js" afterPath="$PROJECT_DIR$/node_modules/react/dist/react.min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/table/api/tabledata.js" afterPath="$PROJECT_DIR$/projects/table/api/tabledata.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react/lib/traverseAllChildren.js" afterPath="$PROJECT_DIR$/node_modules/react/lib/traverseAllChildren.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react/node_modules/fbjs/flow/include/warning.js" afterPath="$PROJECT_DIR$/node_modules/react/node_modules/fbjs/flow/include/warning.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react/node_modules/fbjs/lib/warning.js" afterPath="$PROJECT_DIR$/node_modules/react/node_modules/fbjs/lib/warning.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="advanced-react.iws" />
@@ -32,41 +101,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="application.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/projects/table/application.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.2123603">
+              <caret line="97" column="10" selection-start-line="97" selection-start-column="10" selection-end-line="97" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fixed-data-table.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projects/table/css/fixed-data-table.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="tabledata.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/projects/table/api/tabledata.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/projects/routing/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/projects/routing/application.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.08265802">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/projects/table/application.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="11" column="29" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="29" />
+              <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -82,8 +141,19 @@
       <list>
         <option value="$PROJECT_DIR$/subjects/table/api/tabledata.js" />
         <option value="$PROJECT_DIR$/subjects/table/exercise.js" />
-        <option value="$PROJECT_DIR$/projects/table/application.js" />
+        <option value="$PROJECT_DIR$/projects/routing/Browser.jsx" />
+        <option value="$PROJECT_DIR$/projects/routing/Routes.jsx" />
+        <option value="$PROJECT_DIR$/projects/routing/App.jsx" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/projects/routing/app.js" />
+        <option value="$PROJECT_DIR$/projects/index.html" />
+        <option value="$PROJECT_DIR$/projects/tableData/ReactApp.js" />
+        <option value="$PROJECT_DIR$/projects/tableData/application.js" />
+        <option value="$PROJECT_DIR$/projects/table/index.html" />
+        <option value="$PROJECT_DIR$/projects/tableData/index.html" />
+        <option value="$PROJECT_DIR$/projects/routing/application.js" />
         <option value="$PROJECT_DIR$/projects/table/api/tabledata.js" />
+        <option value="$PROJECT_DIR$/projects/table/application.js" />
       </list>
     </option>
   </component>
@@ -95,9 +165,9 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="23" />
-    <option name="width" value="1521" />
-    <option name="height" value="1119" />
+    <option name="x" value="25" />
+    <option name="width" value="1551" />
+    <option name="height" value="1703" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -106,7 +176,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="1" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -192,7 +262,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -215,24 +285,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="api" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="advanced-react" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="react" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="projects" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="routing" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -303,27 +355,27 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="23" y="0" width="1521" height="1119" extended-state="0" />
-    <editor active="true" />
+    <frame x="25" y="0" width="1551" height="1703" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29528368" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2893503" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3322949" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18487929" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -351,23 +403,80 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/projects/table/application.js">
+    <entry file="file://$PROJECT_DIR$/projects/table/lib/getJSON.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="29" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="29" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projects/table/api/tabledata.js">
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+        <state vertical-scroll-proportion="0.6247068">
+          <caret line="47" column="1" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projects/routing/index.html">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider editor-type-id="MultiMarkdownFxHtmlEditor">
+        <state />
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/helloworld/application.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.11283186">
+          <caret line="9" column="2" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/axios/coverage/lcov-report/dist/axios.js.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.70616573">
+          <caret line="6063" column="0" selection-start-line="6063" selection-start-column="0" selection-end-line="6063" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.4908566">
+          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="18" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/table/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -377,8 +486,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/projects/routing/application.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.08265802">
+        <state vertical-scroll-proportion="0.36713615">
+          <caret line="23" column="57" selection-start-line="23" selection-start-column="57" selection-end-line="23" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/table/api/tabledata.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/table/css/fixed-data-table.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/table/application.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2123603">
+          <caret line="97" column="10" selection-start-line="97" selection-start-column="10" selection-end-line="97" selection-end-column="10" />
           <folding />
         </state>
       </provider>

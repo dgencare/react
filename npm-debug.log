@@ -1,0 +1,451 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'c:\\Program Files\\nodejs\\node.exe',
+1 verbose cli   'c:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'install',
+1 verbose cli   'react-json' ]
+2 info using npm@2.14.4
+3 info using node@v4.1.1
+4 verbose install initial load of c:\reactjs_sites\react\package.json
+5 warn package.json advanced-react@1.0.0 license should be a valid SPDX license expression
+6 verbose installManyTop reading scoped package data from c:\reactjs_sites\react\node_modules\axios\package.json
+7 verbose installManyTop reading scoped package data from c:\reactjs_sites\react\node_modules\babel\package.json
+8 verbose installManyTop reading scoped package data from c:\reactjs_sites\react\node_modules\babel-core\package.json
+9 verbose installManyTop reading scoped package data from c:\reactjs_sites\react\node_modules\babel-loader\package.json
+10 verbose installManyTop reading scoped package data from c:\reactjs_sites\react\node_modules\bootstrap\package.json
+11 verbose installManyTop reading scoped package data from c:\reactjs_sites\react\node_modules\bootstrap-webpack\package.json
+12 verbose installManyTop reading scoped package data from c:\reactjs_sites\react\node_modules\css-loader\package.json
+13 verbose installManyTop reading scoped package data from c:\reactjs_sites\react\node_modules\events\package.json
+14 verbose installManyTop reading scoped package data from c:\reactjs_sites\react\node_modules\expose-loader\package.json
+15 verbose installManyTop reading scoped package data from c:\reactjs_sites\react\node_modules\file-loader\package.json
+16 verbose installManyTop reading scoped package data from c:\reactjs_sites\react\node_modules\firebase\package.json
+17 verbose installManyTop reading scoped package data from c:\reactjs_sites\react\node_modules\fixed-data-table\package.json
+18 verbose installManyTop reading scoped package data from c:\reactjs_sites\react\node_modules\flux\package.json
+19 verbose installManyTop reading scoped package data from c:\reactjs_sites\react\node_modules\griddle-callback\package.json
+20 verbose installManyTop reading scoped package data from c:\reactjs_sites\react\node_modules\griddle-react\package.json
+21 verbose installManyTop reading scoped package data from c:\reactjs_sites\react\node_modules\grunt-cli\package.json
+22 verbose installManyTop reading scoped package data from c:\reactjs_sites\react\node_modules\hsl-to-rgb\package.json
+23 verbose installManyTop reading scoped package data from c:\reactjs_sites\react\node_modules\immstruct\package.json
+24 verbose installManyTop reading scoped package data from c:\reactjs_sites\react\node_modules\immutable\package.json
+25 verbose installManyTop reading scoped package data from c:\reactjs_sites\react\node_modules\invariant\package.json
+26 verbose installManyTop reading scoped package data from c:\reactjs_sites\react\node_modules\jquery\package.json
+27 verbose installManyTop reading scoped package data from c:\reactjs_sites\react\node_modules\jsonp\package.json
+28 verbose installManyTop reading scoped package data from c:\reactjs_sites\react\node_modules\md5\package.json
+29 verbose installManyTop reading scoped package data from c:\reactjs_sites\react\node_modules\merge\package.json
+30 verbose installManyTop reading scoped package data from c:\reactjs_sites\react\node_modules\mkdirp\package.json
+31 verbose installManyTop reading scoped package data from c:\reactjs_sites\react\node_modules\object-assign\package.json
+32 verbose installManyTop reading scoped package data from c:\reactjs_sites\react\node_modules\purecss\package.json
+33 verbose installManyTop reading scoped package data from c:\reactjs_sites\react\node_modules\react\package.json
+34 verbose installManyTop reading scoped package data from c:\reactjs_sites\react\node_modules\react-addons-css-transition-group\package.json
+35 verbose installManyTop reading scoped package data from c:\reactjs_sites\react\node_modules\react-addons-perf\package.json
+36 verbose installManyTop reading scoped package data from c:\reactjs_sites\react\node_modules\react-addons-transition-group\package.json
+37 verbose installManyTop reading scoped package data from c:\reactjs_sites\react\node_modules\react-dom\package.json
+38 verbose installManyTop reading scoped package data from c:\reactjs_sites\react\node_modules\react-json\package.json
+39 verbose installManyTop reading scoped package data from c:\reactjs_sites\react\node_modules\react-motion\package.json
+40 verbose installManyTop reading scoped package data from c:\reactjs_sites\react\node_modules\react-router\package.json
+41 verbose installManyTop reading scoped package data from c:\reactjs_sites\react\node_modules\react-router-component\package.json
+42 verbose installManyTop reading scoped package data from c:\reactjs_sites\react\node_modules\react-tween-state\package.json
+43 verbose installManyTop reading scoped package data from c:\reactjs_sites\react\node_modules\sort-by\package.json
+44 verbose installManyTop reading scoped package data from c:\reactjs_sites\react\node_modules\style-loader\package.json
+45 verbose installManyTop reading scoped package data from c:\reactjs_sites\react\node_modules\underscore\package.json
+46 verbose installManyTop reading scoped package data from c:\reactjs_sites\react\node_modules\url-loader\package.json
+47 verbose installManyTop reading scoped package data from c:\reactjs_sites\react\node_modules\webpack\package.json
+48 verbose installManyTop reading scoped package data from c:\reactjs_sites\react\node_modules\webpack-dev-server\package.json
+49 info package.json babel-core@5.8.25 No README data
+50 info package.json css-loader@0.10.1 No license field.
+51 info package.json expose-loader@0.6.0 No license field.
+52 info package.json griddle-callback@0.2.1 No repository field.
+53 info package.json griddle-callback@0.2.1 No README data
+54 info package.json jquery@2.1.4 No license field.
+55 info package.json react-tween-state@0.0.5 license should be a valid SPDX license expression
+56 info package.json bootstrap-webpack@0.0.3 No license field.
+57 info package.json firebase@2.3.1 No license field.
+58 info package.json grunt-cli@0.1.13 No license field.
+59 info package.json events@1.1.0 events is also the name of a node core module.
+60 info package.json purecss@0.6.0 license should be a valid SPDX license expression
+61 info package.json jsonp@0.2.0 No license field.
+62 info package.json react-addons-css-transition-group@0.14.0 No repository field.
+63 info package.json react-addons-transition-group@0.14.0 No repository field.
+64 info package.json react-addons-perf@0.14.0 No repository field.
+65 verbose readDependencies loading dependencies from c:\reactjs_sites\react\package.json
+66 verbose install react-json is installed as 0.0.1
+67 silly cache add args [ 'react-json', null ]
+68 verbose cache add spec react-json
+69 silly cache add parsed spec Result {
+69 silly cache add   raw: 'react-json',
+69 silly cache add   scope: null,
+69 silly cache add   name: 'react-json',
+69 silly cache add   rawSpec: '',
+69 silly cache add   spec: '*',
+69 silly cache add   type: 'range' }
+70 silly addNamed react-json@*
+71 verbose addNamed "*" is a valid semver range for react-json
+72 silly addNameRange { name: 'react-json', range: '*', hasData: false }
+73 silly mapToRegistry name react-json
+74 silly mapToRegistry using default registry
+75 silly mapToRegistry registry https://registry.npmjs.org/
+76 silly mapToRegistry uri https://registry.npmjs.org/react-json
+77 verbose addNameRange registry:https://registry.npmjs.org/react-json not in flight; fetching
+78 verbose request uri https://registry.npmjs.org/react-json
+79 verbose request no auth needed
+80 info attempt registry request try #1 at 2:10:51 PM
+81 verbose request id 1091c335e2fae32c
+82 verbose etag "F0JA84WQV7J21CELJG5RW7BAZ"
+83 http request GET https://registry.npmjs.org/react-json
+84 http 304 https://registry.npmjs.org/react-json
+85 silly get cb [ 304,
+85 silly get   { date: 'Sun, 11 Oct 2015 18:10:51 GMT',
+85 silly get     via: '1.1 varnish',
+85 silly get     'cache-control': 'max-age=60',
+85 silly get     etag: '"F0JA84WQV7J21CELJG5RW7BAZ"',
+85 silly get     age: '0',
+85 silly get     connection: 'keep-alive',
+85 silly get     'x-served-by': 'cache-iad2141-IAD',
+85 silly get     'x-cache': 'MISS',
+85 silly get     'x-cache-hits': '0',
+85 silly get     'x-timer': 'S1444587051.408749,VS0,VE91',
+85 silly get     vary: 'Accept' } ]
+86 verbose etag https://registry.npmjs.org/react-json from cache
+87 verbose get saving react-json to C:\Users\Darshan\AppData\Roaming\npm-cache\registry.npmjs.org\react-json\.cache.json
+88 silly addNameRange number 2 { name: 'react-json', range: '*', hasData: true }
+89 silly addNameRange versions [ 'react-json', [ '0.0.1' ] ]
+90 silly addNamed react-json@0.0.1
+91 verbose addNamed "0.0.1" is a plain semver version for react-json
+92 silly cache afterAdd react-json@0.0.1
+93 verbose afterAdd C:\Users\Darshan\AppData\Roaming\npm-cache\react-json\0.0.1\package\package.json not in flight; writing
+94 verbose afterAdd C:\Users\Darshan\AppData\Roaming\npm-cache\react-json\0.0.1\package\package.json written
+95 silly install resolved [ { name: 'react-json',
+95 silly install resolved     version: '0.0.1',
+95 silly install resolved     description: 'A JSON editor packed as a React.js component and the simplest way of creating web forms.',
+95 silly install resolved     main: 'Json.js',
+95 silly install resolved     scripts: { test: 'node node_modules/mocha/bin/mocha tests' },
+95 silly install resolved     repository:
+95 silly install resolved      { type: 'git',
+95 silly install resolved        url: 'git+https://github.com/arqex/react-json.git' },
+95 silly install resolved     keywords: [ 'react', 'forms', 'json' ],
+95 silly install resolved     author: { name: 'Javier Marquez' },
+95 silly install resolved     license: 'MIT',
+95 silly install resolved     bugs: { url: 'https://github.com/arqex/react-json/issues' },
+95 silly install resolved     homepage: 'https://github.com/arqex/react-json',
+95 silly install resolved     dependencies: { 'freezer-js': '^0.5.2', 'object-assign': '^2.0.0' },
+95 silly install resolved     peerDependencies: { react: '^0.13.1' },
+95 silly install resolved     devDependencies:
+95 silly install resolved      { gulp: '^3.8.11',
+95 silly install resolved        'gulp-uglify': '^1.2.0',
+95 silly install resolved        'gulp-webpack': '^1.4.0',
+95 silly install resolved        jsdom: '^3.1.2',
+95 silly install resolved        mocha: '^2.2.4',
+95 silly install resolved        'node-libs-browser': '^0.5.2' },
+95 silly install resolved     gitHead: '2faaa7ba406afcba0317718654b930a5a7d698b6',
+95 silly install resolved     _id: 'react-json@0.0.1',
+95 silly install resolved     _shasum: 'f489b2e40c3231bdb6fd7db6972ec8516d75db8b',
+95 silly install resolved     _from: 'react-json@*',
+95 silly install resolved     _npmVersion: '2.7.4',
+95 silly install resolved     _nodeVersion: '0.12.0',
+95 silly install resolved     _npmUser: { name: 'arqex', email: 'javi@arqex.com' },
+95 silly install resolved     maintainers: [ [Object] ],
+95 silly install resolved     dist:
+95 silly install resolved      { shasum: 'f489b2e40c3231bdb6fd7db6972ec8516d75db8b',
+95 silly install resolved        tarball: 'http://registry.npmjs.org/react-json/-/react-json-0.0.1.tgz' },
+95 silly install resolved     directories: {},
+95 silly install resolved     _resolved: 'https://registry.npmjs.org/react-json/-/react-json-0.0.1.tgz',
+95 silly install resolved     readme: 'ERROR: No README data found!' } ]
+96 info install react-json@0.0.1 into c:\reactjs_sites\react
+97 info installOne react-json@0.0.1
+98 verbose installOne of react-json to c:\reactjs_sites\react not in flight; installing
+99 verbose lock using C:\Users\Darshan\AppData\Roaming\npm-cache\_locks\react-json-4d28ea3c2ed040dd.lock for c:\reactjs_sites\react\node_modules\react-json
+100 silly install write writing react-json 0.0.1 to c:\reactjs_sites\react\node_modules\react-json
+101 verbose unbuild node_modules\react-json
+102 info preuninstall react-json@0.0.1
+103 info uninstall react-json@0.0.1
+104 verbose unbuild rmStuff react-json@0.0.1 from c:\reactjs_sites\react\node_modules
+105 info postuninstall react-json@0.0.1
+106 silly gentlyRm c:\reactjs_sites\react\node_modules\react-json is being purged from base c:\reactjs_sites\react
+107 verbose gentlyRm don't care about contents; nuking c:\reactjs_sites\react\node_modules\react-json
+108 silly vacuum-fs purging c:\reactjs_sites\react\node_modules\react-json
+109 silly vacuum-fs quitting because other entries in c:\reactjs_sites\react\node_modules
+110 verbose tar unpack C:\Users\Darshan\AppData\Roaming\npm-cache\react-json\0.0.1\package.tgz
+111 verbose tar unpacking to c:\reactjs_sites\react\node_modules\react-json
+112 silly gentlyRm c:\reactjs_sites\react\node_modules\react-json is being purged
+113 verbose gentlyRm don't care about contents; nuking c:\reactjs_sites\react\node_modules\react-json
+114 silly gunzTarPerm modes [ '777', '666' ]
+115 silly gunzTarPerm extractEntry package.json
+116 silly gunzTarPerm extractEntry .npmignore
+117 silly gunzTarPerm extractEntry README.md
+118 silly gunzTarPerm extractEntry LICENSE
+119 silly gunzTarPerm extractEntry FieldAdder.js
+120 silly gunzTarPerm extractEntry Json.js
+121 silly gunzTarPerm extractEntry TypeField.js
+122 silly gunzTarPerm extractEntry deepSettings.js
+123 silly gunzTarPerm extractEntry Field.js
+124 silly gunzTarPerm extractEntry validation.js
+125 silly gunzTarPerm extractEntry gulpfile.js
+126 silly gunzTarPerm extractEntry mixins/CompoundFieldMixin.js
+127 silly gunzTarPerm extractEntry mixins/LeafFieldMixin.js
+128 silly gunzTarPerm extractEntry build/Json-no-freezer.js
+129 silly gunzTarPerm extractEntry build/Json-no-freezer.min.js
+130 silly gunzTarPerm extractEntry build/Json.js
+131 silly gunzTarPerm extractEntry build/Json.min.js
+132 silly gunzTarPerm extractEntry react-json-block.css
+133 silly gunzTarPerm extractEntry react-json.css
+134 silly gunzTarPerm extractEntry tests/json-spec.js
+135 silly gunzTarPerm extractEntry tests/string-spec.js
+136 silly gunzTarPerm extractEntry tests/testdom.js
+137 silly gunzTarPerm extractEntry types/ArrayField.js
+138 silly gunzTarPerm extractEntry types/BooleanField.js
+139 silly gunzTarPerm extractEntry types/NullField.js
+140 silly gunzTarPerm extractEntry types/NumberField.js
+141 silly gunzTarPerm extractEntry types/ObjectField.js
+142 silly gunzTarPerm extractEntry types/PasswordField.js
+143 silly gunzTarPerm extractEntry types/StringField.js
+144 silly gunzTarPerm extractEntry types/TextField.js
+145 verbose write writing to c:\reactjs_sites\react\node_modules\react-json\package.json
+146 info preinstall react-json@0.0.1
+147 verbose readDependencies loading dependencies from c:\reactjs_sites\react\node_modules\react-json\package.json
+148 silly prepareForInstallMany adding freezer-js@^0.5.2 from react-json dependencies
+149 silly prepareForInstallMany adding react@^0.13.1 from react-json peerDependencies
+150 warn peerDependencies The peer dependency react@^0.13.1 included from react-json will no
+151 warn peerDependencies longer be automatically installed to fulfill the peerDependency
+152 warn peerDependencies in npm 3+. Your application will need to depend on it explicitly.
+153 verbose readDependencies loading dependencies from c:\reactjs_sites\react\node_modules\react-json\package.json
+154 silly cache add args [ 'freezer-js@^0.5.2', null ]
+155 verbose cache add spec freezer-js@^0.5.2
+156 silly cache add parsed spec Result {
+156 silly cache add   raw: 'freezer-js@^0.5.2',
+156 silly cache add   scope: null,
+156 silly cache add   name: 'freezer-js',
+156 silly cache add   rawSpec: '^0.5.2',
+156 silly cache add   spec: '>=0.5.2 <0.6.0',
+156 silly cache add   type: 'range' }
+157 silly addNamed freezer-js@>=0.5.2 <0.6.0
+158 verbose addNamed ">=0.5.2 <0.6.0" is a valid semver range for freezer-js
+159 silly addNameRange { name: 'freezer-js', range: '>=0.5.2 <0.6.0', hasData: false }
+160 silly mapToRegistry name freezer-js
+161 silly mapToRegistry using default registry
+162 silly mapToRegistry registry https://registry.npmjs.org/
+163 silly mapToRegistry uri https://registry.npmjs.org/freezer-js
+164 verbose addNameRange registry:https://registry.npmjs.org/freezer-js not in flight; fetching
+165 verbose request uri https://registry.npmjs.org/freezer-js
+166 verbose request no auth needed
+167 info attempt registry request try #1 at 2:10:51 PM
+168 verbose etag "B9YI09KK9YQMOTZXUS9SMI3G2"
+169 http request GET https://registry.npmjs.org/freezer-js
+170 http 304 https://registry.npmjs.org/freezer-js
+171 silly get cb [ 304,
+171 silly get   { date: 'Sun, 11 Oct 2015 18:10:51 GMT',
+171 silly get     via: '1.1 varnish',
+171 silly get     'cache-control': 'max-age=60',
+171 silly get     etag: '"B9YI09KK9YQMOTZXUS9SMI3G2"',
+171 silly get     age: '0',
+171 silly get     connection: 'keep-alive',
+171 silly get     'x-served-by': 'cache-iad2141-IAD',
+171 silly get     'x-cache': 'MISS',
+171 silly get     'x-cache-hits': '0',
+171 silly get     'x-timer': 'S1444587051.785604,VS0,VE461',
+171 silly get     vary: 'Accept' } ]
+172 verbose etag https://registry.npmjs.org/freezer-js from cache
+173 verbose get saving freezer-js to C:\Users\Darshan\AppData\Roaming\npm-cache\registry.npmjs.org\freezer-js\.cache.json
+174 silly addNameRange number 2 { name: 'freezer-js', range: '>=0.5.2 <0.6.0', hasData: true }
+175 silly addNameRange versions [ 'freezer-js',
+175 silly addNameRange   [ '0.3.1',
+175 silly addNameRange     '0.3.2',
+175 silly addNameRange     '0.3.3',
+175 silly addNameRange     '0.4.2',
+175 silly addNameRange     '0.5.0',
+175 silly addNameRange     '0.5.1',
+175 silly addNameRange     '0.5.2',
+175 silly addNameRange     '0.6.0',
+175 silly addNameRange     '0.6.1',
+175 silly addNameRange     '0.7.0',
+175 silly addNameRange     '0.7.1',
+175 silly addNameRange     '0.8.0',
+175 silly addNameRange     '0.8.1' ] ]
+176 silly addNamed freezer-js@0.5.2
+177 verbose addNamed "0.5.2" is a plain semver version for freezer-js
+178 silly cache afterAdd freezer-js@0.5.2
+179 verbose afterAdd C:\Users\Darshan\AppData\Roaming\npm-cache\freezer-js\0.5.2\package\package.json not in flight; writing
+180 verbose afterAdd C:\Users\Darshan\AppData\Roaming\npm-cache\freezer-js\0.5.2\package\package.json written
+181 silly install resolved [ { name: 'freezer-js',
+181 silly install resolved     version: '0.5.2',
+181 silly install resolved     description: 'A tree data structure that is always updated from the root, making easier to think in a reactive way.',
+181 silly install resolved     main: 'freezer.js',
+181 silly install resolved     homepage: 'https://github.com/arqex/freezer',
+181 silly install resolved     scripts:
+181 silly install resolved      { test: 'node ./node_modules/mocha/bin/mocha tests',
+181 silly install resolved        build: 'node ./node_modules/gulp/bin/gulp.js' },
+181 silly install resolved     repository: { type: 'git', url: 'git+https://github.com/arqex/freezer.git' },
+181 silly install resolved     keywords: [ 'react', 'reactive', 'store', 'flux', 'state', 'cursor', 'tree' ],
+181 silly install resolved     author: { name: 'arqex' },
+181 silly install resolved     license: 'MIT',
+181 silly install resolved     bugs: { url: 'https://github.com/arqex/freezer/issues' },
+181 silly install resolved     devDependencies:
+181 silly install resolved      { mocha: '~2.0.1',
+181 silly install resolved        'unit.js': '~1.0.2',
+181 silly install resolved        'gulp-uglify': '~1.0.1',
+181 silly install resolved        'gulp-rename': '~1.2.0',
+181 silly install resolved        'gulp-insert': '~0.4.0',
+181 silly install resolved        gulp: '~3.8.11',
+181 silly install resolved        benchmark: '~1.0.0',
+181 silly install resolved        immutable: '~3.6.2',
+181 silly install resolved        chai: '~2.0.0' },
+181 silly install resolved     gitHead: 'a83abb6de06e6cf43796da0ac36436a41a2f22c0',
+181 silly install resolved     _id: 'freezer-js@0.5.2',
+181 silly install resolved     _shasum: 'c24dbc47fc327b3475ea34adc408b0953f2a4907',
+181 silly install resolved     _from: 'freezer-js@>=0.5.2 <0.6.0',
+181 silly install resolved     _npmVersion: '2.7.4',
+181 silly install resolved     _nodeVersion: '0.12.0',
+181 silly install resolved     _npmUser: { name: 'arqex', email: 'javi@arqex.com' },
+181 silly install resolved     maintainers: [ [Object] ],
+181 silly install resolved     dist:
+181 silly install resolved      { shasum: 'c24dbc47fc327b3475ea34adc408b0953f2a4907',
+181 silly install resolved        tarball: 'http://registry.npmjs.org/freezer-js/-/freezer-js-0.5.2.tgz' },
+181 silly install resolved     directories: {},
+181 silly install resolved     _resolved: 'https://registry.npmjs.org/freezer-js/-/freezer-js-0.5.2.tgz',
+181 silly install resolved     readme: 'ERROR: No README data found!' } ]
+182 info install freezer-js@0.5.2 into c:\reactjs_sites\react\node_modules\react-json
+183 info installOne freezer-js@0.5.2
+184 verbose installOne of freezer-js to c:\reactjs_sites\react\node_modules\react-json not in flight; installing
+185 verbose lock using C:\Users\Darshan\AppData\Roaming\npm-cache\_locks\freezer-js-2b4b8e0d000645ba.lock for c:\reactjs_sites\react\node_modules\react-json\node_modules\freezer-js
+186 silly install write writing freezer-js 0.5.2 to c:\reactjs_sites\react\node_modules\react-json\node_modules\freezer-js
+187 verbose unbuild node_modules\react-json\node_modules\freezer-js
+188 silly gentlyRm c:\reactjs_sites\react\node_modules\react-json\node_modules\freezer-js is being purged from base c:\reactjs_sites\react
+189 verbose gentlyRm don't care about contents; nuking c:\reactjs_sites\react\node_modules\react-json\node_modules\freezer-js
+190 verbose tar unpack C:\Users\Darshan\AppData\Roaming\npm-cache\freezer-js\0.5.2\package.tgz
+191 verbose tar unpacking to c:\reactjs_sites\react\node_modules\react-json\node_modules\freezer-js
+192 silly gentlyRm c:\reactjs_sites\react\node_modules\react-json\node_modules\freezer-js is being purged
+193 verbose gentlyRm don't care about contents; nuking c:\reactjs_sites\react\node_modules\react-json\node_modules\freezer-js
+194 silly gunzTarPerm modes [ '777', '666' ]
+195 silly gunzTarPerm extractEntry package.json
+196 silly gunzTarPerm extractEntry .npmignore
+197 silly gunzTarPerm extractEntry README.md
+198 silly gunzTarPerm extractEntry LICENSE
+199 silly gunzTarPerm extractEntry freezer.js
+200 silly gunzTarPerm extractEntry gulpfile.js
+201 silly gunzTarPerm extractEntry build/freezer.js
+202 silly gunzTarPerm extractEntry build/freezer.min.js
+203 silly gunzTarPerm extractEntry build/wrapper.txt
+204 silly gunzTarPerm extractEntry bower.json
+205 silly gunzTarPerm extractEntry CHANGELOG.md
+206 silly gunzTarPerm extractEntry .travis.yml
+207 silly gunzTarPerm extractEntry img/initialTree.png
+208 silly gunzTarPerm extractEntry img/updatedTree.png
+209 silly gunzTarPerm extractEntry src/emitter.js
+210 silly gunzTarPerm extractEntry src/freezer.js
+211 silly gunzTarPerm extractEntry src/frozen.js
+212 silly gunzTarPerm extractEntry src/mixins.js
+213 silly gunzTarPerm extractEntry src/utils.js
+214 silly gunzTarPerm extractEntry benchmarks/creation.js
+215 silly gunzTarPerm extractEntry benchmarks/initialData.js
+216 silly gunzTarPerm extractEntry benchmarks/push.js
+217 silly gunzTarPerm extractEntry tests/array-spec.js
+218 silly gunzTarPerm extractEntry tests/arrayroot-spec.js
+219 silly gunzTarPerm extractEntry tests/freezer-spec.js
+220 silly gunzTarPerm extractEntry tests/hash-spec.js
+221 silly gunzTarPerm extractEntry tests/listener-spec.js
+222 silly gunzTarPerm extractEntry tests/transact-spec.js
+223 silly gunzTarPerm extractEntry tests/browser.html
+224 silly gunzTarPerm extractEntry tests/mutable/array-spec.js
+225 silly gunzTarPerm extractEntry tests/mutable/freezer-spec.js
+226 silly gunzTarPerm extractEntry tests/mutable/hash-spec.js
+227 silly gunzTarPerm extractEntry tests/mutable/listener-spec.js
+228 silly gunzTarPerm extractEntry tests/mutable/transact-spec.js
+229 silly gunzTarPerm extractEntry tests/mutable/browser.html
+230 verbose write writing to c:\reactjs_sites\react\node_modules\react-json\node_modules\freezer-js\package.json
+231 info preinstall freezer-js@0.5.2
+232 verbose readDependencies loading dependencies from c:\reactjs_sites\react\node_modules\react-json\node_modules\freezer-js\package.json
+233 verbose readDependencies loading dependencies from c:\reactjs_sites\react\node_modules\react-json\node_modules\freezer-js\package.json
+234 silly install resolved []
+235 verbose about to build c:\reactjs_sites\react\node_modules\react-json\node_modules\freezer-js
+236 info build c:\reactjs_sites\react\node_modules\react-json\node_modules\freezer-js
+237 info linkStuff freezer-js@0.5.2
+238 silly linkStuff freezer-js@0.5.2 has c:\reactjs_sites\react\node_modules\react-json\node_modules as its parent node_modules
+239 verbose linkBins freezer-js@0.5.2
+240 verbose linkMans freezer-js@0.5.2
+241 verbose rebuildBundles freezer-js@0.5.2
+242 info install freezer-js@0.5.2
+243 info postinstall freezer-js@0.5.2
+244 verbose unlock done using C:\Users\Darshan\AppData\Roaming\npm-cache\_locks\freezer-js-2b4b8e0d000645ba.lock for c:\reactjs_sites\react\node_modules\react-json\node_modules\freezer-js
+245 verbose about to build c:\reactjs_sites\react\node_modules\react-json
+246 info build c:\reactjs_sites\react\node_modules\react-json
+247 info linkStuff react-json@0.0.1
+248 silly linkStuff react-json@0.0.1 has c:\reactjs_sites\react\node_modules as its parent node_modules
+249 verbose linkBins react-json@0.0.1
+250 verbose linkMans react-json@0.0.1
+251 verbose rebuildBundles react-json@0.0.1
+252 verbose rebuildBundles [ 'freezer-js' ]
+253 info install react-json@0.0.1
+254 info postinstall react-json@0.0.1
+255 verbose readDependencies loading dependencies from c:\reactjs_sites\react\package.json
+256 verbose targetResolver reading package data from c:\reactjs_sites\react\node_modules\axios\package.json
+257 verbose targetResolver reading package data from c:\reactjs_sites\react\node_modules\babel\package.json
+258 verbose targetResolver reading package data from c:\reactjs_sites\react\node_modules\babel-core\package.json
+259 verbose targetResolver reading package data from c:\reactjs_sites\react\node_modules\babel-loader\package.json
+260 verbose targetResolver reading package data from c:\reactjs_sites\react\node_modules\bootstrap\package.json
+261 verbose targetResolver reading package data from c:\reactjs_sites\react\node_modules\bootstrap-webpack\package.json
+262 verbose targetResolver reading package data from c:\reactjs_sites\react\node_modules\css-loader\package.json
+263 verbose targetResolver reading package data from c:\reactjs_sites\react\node_modules\events\package.json
+264 verbose targetResolver reading package data from c:\reactjs_sites\react\node_modules\expose-loader\package.json
+265 verbose targetResolver reading package data from c:\reactjs_sites\react\node_modules\file-loader\package.json
+266 verbose targetResolver reading package data from c:\reactjs_sites\react\node_modules\firebase\package.json
+267 verbose targetResolver reading package data from c:\reactjs_sites\react\node_modules\fixed-data-table\package.json
+268 verbose targetResolver reading package data from c:\reactjs_sites\react\node_modules\flux\package.json
+269 verbose targetResolver reading package data from c:\reactjs_sites\react\node_modules\griddle-callback\package.json
+270 verbose targetResolver reading package data from c:\reactjs_sites\react\node_modules\griddle-react\package.json
+271 verbose targetResolver reading package data from c:\reactjs_sites\react\node_modules\grunt-cli\package.json
+272 verbose targetResolver reading package data from c:\reactjs_sites\react\node_modules\hsl-to-rgb\package.json
+273 verbose targetResolver reading package data from c:\reactjs_sites\react\node_modules\immstruct\package.json
+274 verbose targetResolver reading package data from c:\reactjs_sites\react\node_modules\immutable\package.json
+275 verbose targetResolver reading package data from c:\reactjs_sites\react\node_modules\invariant\package.json
+276 verbose targetResolver reading package data from c:\reactjs_sites\react\node_modules\jquery\package.json
+277 verbose targetResolver reading package data from c:\reactjs_sites\react\node_modules\jsonp\package.json
+278 verbose targetResolver reading package data from c:\reactjs_sites\react\node_modules\md5\package.json
+279 verbose targetResolver reading package data from c:\reactjs_sites\react\node_modules\merge\package.json
+280 verbose targetResolver reading package data from c:\reactjs_sites\react\node_modules\mkdirp\package.json
+281 verbose targetResolver reading package data from c:\reactjs_sites\react\node_modules\object-assign\package.json
+282 verbose targetResolver reading package data from c:\reactjs_sites\react\node_modules\purecss\package.json
+283 verbose targetResolver reading package data from c:\reactjs_sites\react\node_modules\react\package.json
+284 verbose targetResolver reading package data from c:\reactjs_sites\react\node_modules\react-addons-css-transition-group\package.json
+285 verbose targetResolver reading package data from c:\reactjs_sites\react\node_modules\react-addons-perf\package.json
+286 verbose targetResolver reading package data from c:\reactjs_sites\react\node_modules\react-addons-transition-group\package.json
+287 verbose targetResolver reading package data from c:\reactjs_sites\react\node_modules\react-dom\package.json
+288 verbose targetResolver reading package data from c:\reactjs_sites\react\node_modules\react-json\package.json
+289 verbose targetResolver reading package data from c:\reactjs_sites\react\node_modules\react-motion\package.json
+290 verbose targetResolver reading package data from c:\reactjs_sites\react\node_modules\react-router\package.json
+291 verbose targetResolver reading package data from c:\reactjs_sites\react\node_modules\react-router-component\package.json
+292 verbose targetResolver reading package data from c:\reactjs_sites\react\node_modules\react-tween-state\package.json
+293 verbose targetResolver reading package data from c:\reactjs_sites\react\node_modules\sort-by\package.json
+294 verbose targetResolver reading package data from c:\reactjs_sites\react\node_modules\style-loader\package.json
+295 verbose targetResolver reading package data from c:\reactjs_sites\react\node_modules\underscore\package.json
+296 verbose targetResolver reading package data from c:\reactjs_sites\react\node_modules\url-loader\package.json
+297 verbose targetResolver reading package data from c:\reactjs_sites\react\node_modules\webpack\package.json
+298 verbose targetResolver reading package data from c:\reactjs_sites\react\node_modules\webpack-dev-server\package.json
+299 verbose already installed skipping react@^0.13.1 c:\reactjs_sites\react
+300 silly install resolved []
+301 verbose unlock done using C:\Users\Darshan\AppData\Roaming\npm-cache\_locks\react-json-4d28ea3c2ed040dd.lock for c:\reactjs_sites\react\node_modules\react-json
+302 verbose validateInstall loading c:\reactjs_sites\react\package.json for validation
+303 verbose stack Error: The package react@0.14.0 does not satisfy its siblings' peerDependencies requirements!
+303 verbose stack     at c:\Program Files\nodejs\node_modules\npm\lib\install.js:125:32
+303 verbose stack     at c:\Program Files\nodejs\node_modules\npm\lib\install.js:268:7
+303 verbose stack     at c:\Program Files\nodejs\node_modules\npm\node_modules\read-installed\read-installed.js:142:5
+303 verbose stack     at c:\Program Files\nodejs\node_modules\npm\node_modules\read-installed\read-installed.js:263:14
+303 verbose stack     at cb (c:\Program Files\nodejs\node_modules\npm\node_modules\slide\lib\async-map.js:47:24)
+303 verbose stack     at c:\Program Files\nodejs\node_modules\npm\node_modules\read-installed\read-installed.js:263:14
+303 verbose stack     at cb (c:\Program Files\nodejs\node_modules\npm\node_modules\slide\lib\async-map.js:47:24)
+303 verbose stack     at c:\Program Files\nodejs\node_modules\npm\node_modules\read-installed\read-installed.js:263:14
+303 verbose stack     at cb (c:\Program Files\nodejs\node_modules\npm\node_modules\slide\lib\async-map.js:47:24)
+303 verbose stack     at c:\Program Files\nodejs\node_modules\npm\node_modules\read-installed\read-installed.js:263:14
+304 verbose cwd c:\reactjs_sites\react
+305 error Windows_NT 10.0.10240
+306 error argv "c:\\Program Files\\nodejs\\node.exe" "c:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "install" "react-json"
+307 error node v4.1.1
+308 error npm  v2.14.4
+309 error code EPEERINVALID
+310 error peerinvalid The package react@0.14.0 does not satisfy its siblings' peerDependencies requirements!
+310 error peerinvalid Peer react-addons-css-transition-group@0.14.0 wants react@^0.14.0
+310 error peerinvalid Peer react-addons-perf@0.14.0 wants react@^0.14.0
+310 error peerinvalid Peer react-addons-transition-group@0.14.0 wants react@^0.14.0
+310 error peerinvalid Peer react-motion@0.2.7 wants react@>=0.13.2 || ^0.14.0-beta1
+310 error peerinvalid Peer griddle-react@0.2.14 wants react@>=0.12.0
+310 error peerinvalid Peer fixed-data-table@0.4.7 wants react@>=0.13.0 <0.15.0 || ^0.14.0-beta3
+310 error peerinvalid Peer react-json@0.0.1 wants react@^0.13.1
+310 error peerinvalid Peer react-router-component@0.27.2 wants react@>=0.14.0 <0.15.0
+311 verbose exit [ 1, true ]
