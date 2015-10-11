@@ -6,8 +6,8 @@ var webpack = require('webpack');
 var React = require('react');
 var renderToStaticMarkup = require('react-dom/server').renderToStaticMarkup;
 
-var CODE = __dirname+'/subjects';
-var IGNORE = ['shared', '05-functional-ui', 'routing'];
+var CODE = __dirname+'/projects';
+var IGNORE = ['shared'];
 var DIRS = fs.readdirSync(CODE).filter(function (dir) {
   return isDirectory(path.join(CODE, dir)) && IGNORE.indexOf(dir) === -1;
 });
@@ -19,14 +19,8 @@ module.exports = {
   devtool: 'inline-source-map',
 
   entry: DIRS.reduce(function (entries, dir) {
-    if (fileExists(path.join(CODE, dir, 'exercise.js')))
-      entries[dir+'-exercise'] = path.join(CODE, dir, 'exercise.js');
-
-    if (fileExists(path.join(CODE, dir, 'solution.js')))
-      entries[dir+'-solution'] = path.join(CODE, dir, 'solution.js');
-
-    if (fileExists(path.join(CODE, dir, 'lecture.js')))
-      entries[dir+'-lecture'] = path.join(CODE, dir, 'lecture.js');
+    if (fileExists(path.join(CODE, dir, 'application.js')))
+      entries[dir+'-application'] = path.join(CODE, dir, 'application.js');
 
     return entries;
   }, {}),
@@ -76,17 +70,11 @@ function makeIndex() {
     )
   );
 
-  fs.writeFileSync('./subjects/index.html', markup);
+  fs.writeFileSync('./projects/index.html', markup);
 
   DIRS.forEach(function (dir) {
-    if (fileExists(path.join(CODE, dir, 'exercise.js')))
-      fs.writeFileSync('./subjects/'+dir+'/index.html', makeMarkup(dir+'-exercise'));
-
-    if (fileExists(path.join(CODE, dir, 'solution.js')))
-      fs.writeFileSync('./subjects/'+dir+'/solution.html', makeMarkup(dir+'-solution'));
-
-    if (fileExists(path.join(CODE, dir, 'lecture.js')))
-      fs.writeFileSync('./subjects/'+dir+'/lecture.html', makeMarkup(dir+'-lecture'));
+    if (fileExists(path.join(CODE, dir, 'application.js')))
+      fs.writeFileSync('./projects/'+dir+'/index.html', makeMarkup(dir+'-application'));
   });
 }
 

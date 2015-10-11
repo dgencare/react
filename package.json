@@ -4,7 +4,7 @@
   "description": "Training material for http://reactjs-training.com",
   "main": "index.js",
   "scripts": {
-    "start": "webpack-dev-server --inline --content-base subjects"
+    "start": "webpack-dev-server --inline --content-base projects"
   },
   "repository": {
     "type": "git",
@@ -27,7 +27,6 @@
     "expose-loader": "^0.6.0",
     "file-loader": "^0.8.4",
     "firebase": "^2.2.7",
-    "fixed-data-table": "^0.1.2",
     "flux": "^2.0.1",
     "hsl-to-rgb": "^1.0.0",
     "immstruct": "^1.4.1",
@@ -51,9 +50,7 @@
     "style-loader": "^0.12.3",
     "url-loader": "^0.5.6",
     "webpack": "^1.7.3",
-    "webpack-dev-server": "^1.8.0",
-    "griddle-react": "^0.2.8",
-    "griddle-callback": "^1.0.0"
+    "webpack-dev-server": "^1.8.0"
   },
   "devDependencies": {
     "grunt-cli": "^0.1.13"
