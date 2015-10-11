@@ -10,8 +10,6 @@ var NUMBER_OF_ROWS_PER_REQUEST = 2;
 var API_URL = 'api/tabledata.js';
 
 function makeFancyFakeRequest(rowStart, rowEnd, onLoad) {
-
-
     getJSON(API_URL, (error, payload) => {
         var data = {};
         var count = 0;
@@ -20,26 +18,7 @@ function makeFancyFakeRequest(rowStart, rowEnd, onLoad) {
             count++;
         }
         onLoad(data);
-        //onLoad(payload);
     })
-
-
-     /*
-     var FAKE_REQUEST_TIMEOUT = 10;
-     var FakeRows = [
-     {feed_name: "CNN world news", feed_type: "rss", geo_locals: 10, topics: 4}
-     ];
-
-     console.log('Making request', rowStart, rowEnd);
-
-    setTimeout(() => {
-        var data = {};
-        for (var i = rowStart; i <= rowEnd; i++) {
-            data[i] = FakeRows[i % FakeRows.length];
-        }
-        onLoad(data);
-    }, FAKE_REQUEST_TIMEOUT);
-*/
 }
 
 class RowDataLoader {
