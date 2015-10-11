@@ -18,6 +18,12 @@ var divRSSStyle = {
     width: '25px',
 
 };
+var buttonVisStyle = {
+    background: "url('./images/Visualize.png') no-repeat top left",
+    padding: "2px 8px",
+    width: "35px",
+    height: "35px"
+};
 
 function makeFancyFakeRequest(rowStart, rowEnd, onLoad) {
     getJSON(API_URL, (error, payload) => {
@@ -108,8 +114,8 @@ const App = React.createClass({
 
     _renderVisulize(cellData, cellDataKey, rowData, rowIndex) {
         if(typeof rowData.id != 'undefined') {
-            return <button style={{width: '80%'}} onClick={this._handleVisulizeClick.bind(null, rowData, rowIndex)}>*</button>;
-            //return (<button style={{width: 'auto'}} onClick={this._handleVisulizeClick}>Visulize</button>);
+            return <button style={buttonVisStyle} onClick={this._handleVisulizeClick.bind(null, rowData, rowIndex)}></button>;
+            //return (<button style={{width: 'auto'}} onClick={this._handleVisulizeClick}>Visualize</button>);
         }
     },
 
