@@ -1,14 +1,14 @@
 {
-  "name": "advanced-react",
+  "name": "react-test",
   "version": "1.0.0",
-  "description": "Training material for http://reactjs-training.com",
+  "description": "react test container",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --inline --content-base projects"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ReactTraining/advanced-react.git"
+    "url": ""
   },
   "authors": [
     "Ryan Florence",
@@ -16,6 +16,7 @@
   ],
   "license": "GPL3",
   "dependencies": {
+   "async": "^1.4.2",
     "axios": "^0.5.4",
     "babel": "^5.8.3",
     "babel-core": "^5.0.9",
@@ -23,10 +24,12 @@
     "bootstrap": "^3.3.4",
     "bootstrap-webpack": "0.0.3",
     "css-loader": "^0.10.1",
+    "equals": "^1.0.1",
     "events": "^1.0.2",
     "expose-loader": "^0.6.0",
     "file-loader": "^0.8.4",
     "firebase": "^2.2.7",
+	"fixed-data-table": "^0.4.7",
     "flux": "^2.0.1",
     "hsl-to-rgb": "^1.0.0",
     "immstruct": "^1.4.1",
@@ -42,9 +45,10 @@
     "react-addons-css-transition-group": "0.14.0",
     "react-addons-perf": "0.14.0",
     "react-addons-transition-group": "0.14.0",
+	"react-datagrid": "^1.2.15",
     "react-dom": "0.14.0",
     "react-motion": "0.2.7",
-    "react-router": "1.0.0",
+    "react-router": "1.0.0-rc1",
     "react-tween-state": "0.0.5",
     "sort-by": "^1.1.0",
     "style-loader": "^0.12.3",
