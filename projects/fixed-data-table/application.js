@@ -1,3 +1,6 @@
+// widget works best for fixed data size
+// with fixed number of rows
+
 import React from 'react'
 import { render } from 'react-dom'
 import { Table, Column } from 'fixed-data-table'
@@ -112,13 +115,6 @@ const App = React.createClass({
         console.log("Visulize id: " + rowIndex);
     },
 
-    _renderVisulize(cellData, cellDataKey, rowData, rowIndex) {
-        if(typeof rowData.id != 'undefined') {
-            return <button style={buttonVisStyle} onClick={this._handleVisulizeClick.bind(null, rowData, rowIndex)}></button>;
-            //return (<button style={{width: 'auto'}} onClick={this._handleVisulizeClick}>Visualize</button>);
-        }
-    },
-
     _renederFeedType(feed_type, fieldName, rowObj, rowIndex) {
         if(typeof feed_type != 'undefined') {
             switch(feed_type) {
@@ -133,13 +129,17 @@ const App = React.createClass({
         }
     },
 
+    _onRowClick: function(e, index) {
+        console.log(e);
+    },
+
     render: function() {
         return (
             <Table
                 rowHeight={40}
                 rowGetter={this._rowGetter}
                 rowsCount={NUMBER_OF_ROWS_MAX}
-                width={700}
+                width={620}
                 maxHeight={450}
                 headerHeight={40}
                 onRowClick={this._onRowClick}>
@@ -165,13 +165,6 @@ const App = React.createClass({
                     label="Topics"
                     width={100}
                     dataKey="topics"
-                    align="center"
-                    />
-                <Column
-                    label="Visulize"
-                    width={80}
-                    cellRenderer={this._renderVisulize}
-                    dataKey=""
                     align="center"
                     />
             </Table>
