@@ -82,3 +82,7 @@
 .griddle .griddle-next{
     text-align:right;
 }
+
+.cellCenter {
+    text-align: center;
+}
